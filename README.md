@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liangwei01
-- 👀 I’m interested in bioinformatics and neuroscience
+- 👀 I’m interested in bioinformatics and cancer biology
 - 🌱 I’m currently learning data structure
-- 💞️ I’m looking to collaborate on bioinformatics research about brain 
+- 💞️ I’m looking to collaborate on bioinformatics research about cancer and other human disease 
 - 📫 How to reach me ...
 
 <!---
